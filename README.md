@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nileshwadhekar-glitch&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
