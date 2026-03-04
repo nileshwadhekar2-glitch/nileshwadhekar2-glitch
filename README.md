@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nileshhh</h1>
-<h3 align="center">🐍 Python Learner| 💻 CSE Student | 📊 Problem Solver</h3>
+<h3 align="center">🐍 Python Learner| 💻 CSE Student| 📊 Problems Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Enthusiast;Java+%7C+C%2B%2B+%7C+Python;Future+Product+Based+Developer;Always+Learning+New+Things+🚀" />
