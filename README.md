@@ -28,7 +28,7 @@
 🔹 **Portfolio Website**
 
 - Personal branding website
-- Clean animations & layout
+- Clean animations & layouts
 
 🔹 **CSS Keyframe Animation Project**
 
