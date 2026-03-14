@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Nilesh%20Wadhekar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://github.com/nileshwadhekar2-glitch/nileshwadhekar2-glitch/blob/main/1763640175081 2.jpg" width="180" style="border-radius:50%" />
 </p>
 
-<h1 align="center">✨ Nilesh Wadhekar ✨</h1>
+<h1 align="center">Nileshhhh</h1>
 <h3 align="center">🚀 CSE Student | Java & Python Learner | Future Software Engineer</h3>
 
 <p align="center">
