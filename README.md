@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nileshwadhekar2-glitch/nileshwadhekar2-glitch/main/Nileshhh.jpg"
+  <img src="https://raw.githubusercontent.com/nileshwadhekar2-glitch/nileshwadhekar2-glitch/main/Nileshhh-modified.png"
        width="180"
        style="border-radius:50%; border:4px solid white;" />
 </p>
