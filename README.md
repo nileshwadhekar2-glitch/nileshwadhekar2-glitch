@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/nileshwadhekar2-glitch/nileshwadhekar2-glitch/blob/main/Nileshhh.jpg" width="180" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/nileshwadhekar2-glitch/nileshwadhekar2-glitch/main/Nileshhh.jpg"
+       width="180"
+       style="border-radius:50%; border:4px solid white;" />
 </p>
 
 <h1 align="center">Nileshhhh</h1>
