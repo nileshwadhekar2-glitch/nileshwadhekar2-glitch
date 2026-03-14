@@ -17,17 +17,18 @@
 
 ---
 
-# 🔥 About Me
+## 🔥 About Me
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-👋 Hi, I'm **Nileshhh**
+👋 Hi, I'm **Nilesh Wadhekar**
 
 💻 Passionate about **Programming and Technology**
 
 🎓 **B.Tech Computer Science Engineering Student**
 
 🌱 Currently learning  
+
 • **Java Programming**  
 • **Python**  
 • **Data Structures & Algorithms**
@@ -38,7 +39,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -58,22 +59,25 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 💻 Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ### 🌐 Web Development
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ---
 
-# 📊 GitHub Status
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nileshwadhekar2-glitch&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -86,7 +90,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -94,7 +98,7 @@
 
 ---
 
-# ✍️ Dev Quote
+## ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -102,7 +106,7 @@
 
 ---
 
-# 📩 Contact Me
+## 📩 Contact Me
 
 📧 **Email:** nileshwadhekar2@gmail.com
 
