@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/nileshwadhekar2-glitch/nileshwadhekar2-glitch/blob/main/1763640175081 2.jpg" width="180" style="border-radius:50%" />
+  <img src="https://github.com/nileshwadhekar2-glitch/nileshwadhekar2-glitch/blob/main/Nileshhh.jpg" width="180" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Nileshhhh</h1>
-<h3 align="center">🚀 CSE Student | Java & Python Learner | Future Software Engineer</h3>
+<h3 align="center">🚀 CSE Student | Java & Python Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=26&pause=900&color=38B2AC&center=true&vCenter=true&width=900&lines=CSE+Student;Java+%7C+Python+Learner;DSA+Enthusiast;AI%2FML+Explorer;Always+Learning+New+Things+🚀" />
