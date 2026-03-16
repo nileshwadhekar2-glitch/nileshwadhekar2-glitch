@@ -4,7 +4,7 @@
        style="border-radius:50%; border:4px solid white;" />
 </p>
 
-<h1 align="center">Nileshhhh</h1>
+<h1 align="center">💫 Nileshhhh Wadhekar</h1>
 <h3 align="center">🚀 CSE Student | Java & Python Learner</h3>
 
 <p align="center">
@@ -16,10 +16,7 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=nileshwadhekar2-glitch" />
 </p>
-
 ---
-
-## 🔥 About Me
 
 # 💫 About Me
 
@@ -36,19 +33,17 @@ I enjoy **learning new technologies, solving coding problems, and improving my d
 My long-term goal is to become a **skilled software engineer and work at a top product-based technology company.**
 
 ---
-
 # 💻 Tech Stack
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ---
 
 # 📊 GitHub Stats
@@ -70,18 +65,6 @@ My long-term goal is to become a **skilled software engineer and work at a top p
 ### ✍️ Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🔝 Top Contributed Repository
-
-![](https://github-contributor-stats.vercel.app/api?username=nileshwadhekar2-glitch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-### 👀 Profile Visitors
-
-[![](https://visitcount.itsvg.in/api?id=nileshwadhekar2-glitch&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ---
 
