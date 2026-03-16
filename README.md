@@ -21,101 +21,74 @@
 
 ## 🔥 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+# 💫 About Me
 
-👋 Hi, I'm **Nilesh Wadhekar**
+Hi, I’m **Nilesh Wadhekar**, a **Computer Science Engineering student** who enjoys learning programming and building useful projects.
 
-💻 Passionate about **Programming and Technology**
+I am currently focusing on **Java programming and Data Structures & Algorithms**, because I want to build a strong problem-solving foundation for software development.
 
-🎓 **B.Tech Computer Science Engineering Student**
+I have also started learning **HTML, CSS, and JavaScript** to understand how modern websites are built. My goal is to combine programming and development skills to create real-world applications.
 
-🌱 Currently learning  
+Along with software development, I am exploring **Artificial Intelligence and Machine Learning**, as I’m interested in working on intelligent systems in the future.
 
-• **Java Programming**  
-• **Python**  
-• **Data Structures & Algorithms**
+I enjoy **learning new technologies, solving coding problems, and improving my development skills every day.**
 
-🤖 Exploring **Artificial Intelligence & Machine Learning**
-
-🎯 Goal: **Get placed in a Top Product Based Company**
+My long-term goal is to become a **skilled software engineer and work at a top product-based technology company.**
 
 ---
 
-## 🌐 Connect With Me
+# 💻 Tech Stack
 
-<p align="center">
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<a href="https://www.linkedin.com/in/nilesh-wadhekar-159492338">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:nileshwadhekar2@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/fy.nileshh_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-</p>
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ---
 
-## 💻 Tech Stack
+# 📊 GitHub Stats
 
-### 💻 Languages
+![](https://github-readme-stats.vercel.app/api?username=nileshwadhekar2-glitch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![](https://nirzak-streak-stats.vercel.app/?user=nileshwadhekar2-glitch&theme=tokyonight&hide_border=false)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-### 🌐 Web Development
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshwadhekar2-glitch&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
-## 📊 GitHub Status
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nileshwadhekar2-glitch&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshwadhekar2-glitch&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshwadhekar2-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=nileshwadhekar2-glitch&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-## 🐍 Contribution Snake
+### ✍️ Developer Quote
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## ✍️ Dev Quote
+### 🔝 Top Contributed Repository
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=nileshwadhekar2-glitch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
-## 📩 Contact Me
+### 👀 Profile Visitors
 
-📧 **Email:** nileshwadhekar2@gmail.com
+[![](https://visitcount.itsvg.in/api?id=nileshwadhekar2-glitch&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nileshwadhekar2-glitch&icon=5&color=12" />
-</p>
+---
 
-<p align="center">
-⭐ If you like my profile, don't forget to star my repositories ⭐
-</p>
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
