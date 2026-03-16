@@ -46,13 +46,13 @@ My long-term goal is to become a **skilled software engineer and work at a top p
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Status
 
-![](https://github-readme-stats.vercel.app/api?username=nileshwadhekar2-glitch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=nileshwadhekar2-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=nileshwadhekar2-glitch&theme=tokyonight&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=nileshwadhekar2-glitch&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshwadhekar2-glitch&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshwadhekar2-glitch&theme=dark&hide_border=false&layout=compact)
 
 ---
 
