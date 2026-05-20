@@ -85,16 +85,6 @@ Hi 👋, I’m **Nilesh Wadhekar** — a passionate **Computer Science Engineeri
 
 ---
 
-# 📊 GitHub Status
-
-![](https://github-readme-stats.vercel.app/api?username=nileshwadhekar2-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=nileshwadhekar2-glitch&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshwadhekar2-glitch&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 🏆 GitHub Achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=nileshwadhekar2-glitch&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
